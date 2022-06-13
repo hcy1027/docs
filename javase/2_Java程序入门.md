@@ -1,6 +1,12 @@
 ---
 title: Java 程序入门
-sidebar: 'auto'
+sidebar: auto
+date: 2022-06-13 12:52:35
+permalink: /pages/7f19c8/
+categories: 
+  - javase
+tags: 
+  - 
 ---
 
 ## HelloWorld

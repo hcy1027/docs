@@ -1,6 +1,12 @@
 ---
 title: JDK 下载与安装
-sidebar: 'auto'
+sidebar: auto
+date: 2022-06-13 12:52:35
+permalink: /pages/6cc0f0/
+categories: 
+  - javase
+tags: 
+  - 
 ---
 
 ## 官网下载 JDK
