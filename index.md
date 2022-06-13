@@ -4,7 +4,11 @@ home: true
 heroText: Undefined Space
 tagline: 未定义 去探索
 actionText: 即刻开始
+<<<<<<< HEAD
 actionLink: /pages/all/
+=======
+actionLink: /start/
+>>>>>>> d5d1d49f2003bab2545f0be6dfc92d7be3407d2d
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
