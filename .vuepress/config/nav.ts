@@ -30,7 +30,7 @@ export default <Array<NavItem>>[
     items: [
       {
         text: "高等数学",
-        link: "/advmath/",
+        link: "/pages/advance_mathematics/index/",
       },
       {
         text: "线性代数",
@@ -39,6 +39,10 @@ export default <Array<NavItem>>[
       {
         text: "英语",
         link: "/english/",
+      },
+      {
+        text: "数据结构",
+        link: "/pages/datastructure/index/",
       },
     ],
   },
